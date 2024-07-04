@@ -1,6 +1,11 @@
 # campus_connect_project
 
-Connect with seniors for collaborative learning
+*Connect with seniors for collaborative learning*
+Project Overview:
+CampusConnect is a mobile application designed to enhance communication and collaboration among university students at IGDTUW. The primary objective is to facilitate seamless interaction between students across different levels, promoting a supportive and collaborative learning environment.
+
+It connects various seniors and juniors with the same interests and tech stack, fostering specialized mentorship and knowledge sharing.
+
 
 ## Getting Started
 
